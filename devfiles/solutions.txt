@@ -1,3 +1,0 @@
-findstr cheatsheet: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr
-wget cheatsheet: https://gist.github.com/Dammmien/4af98e05f9c51c2da007cc70d62bf562
-all batch color codes: https://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files
