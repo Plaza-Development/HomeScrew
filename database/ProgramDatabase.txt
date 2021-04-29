@@ -1,0 +1,19 @@
+vlc_https://videolan.mirror.liteserver.nl/vlc/3.0.12/win64/vlc-3.0.12-win64.exe
+discord_https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+stremio_https://www.strem.io/download?platform=windows&four=true
+visual studio_https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+libreoffice_https://download.documentfoundation.org/libreoffice/stable/7.1.2/win/x86_64/LibreOffice_7.1.2_Win_x64.msi
+atom
+chrome
+mozilla
+tor
+hwmonitor
+cpuz
+gpuz
+crystaldiskmark
+git
+github desktop
+handbreak
+steam
+picotorrent
+webull
