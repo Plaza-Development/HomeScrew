@@ -1,0 +1,35 @@
+--2021-04-29 14:43:11--  https://videolan.mirror.liteserver.nl/vlc/3.0.12/win64/vlc-3.0.12-win64.exe
+Resolving videolan.mirror.liteserver.nl (videolan.mirror.liteserver.nl)... 2a01:6340:1:20::243, 185.31.172.243
+Connecting to videolan.mirror.liteserver.nl (videolan.mirror.liteserver.nl)|2a01:6340:1:20::243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42585440 (41M) [application/octet-stream]
+Saving to: 'TempDownloadFolder/vlc-3.0.12-win64.exe'
+
+
+2021-04-29 14:43:14 (15.0 MB/s) - 'TempDownloadFolder/vlc-3.0.12-win64.exe' saved [42585440/42585440]
+
+--2021-04-29 14:51:48--  https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable
+Resolving discord.com (discord.com)... 162.159.135.232, 162.159.137.232, 162.159.136.232, ...
+Connecting to discord.com (discord.com)|162.159.135.232|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-04-29 14:51:49 ERROR 400: Bad Request.
+
+--2021-04-29 15:01:00--  https://videolan.mirror.liteserver.nl/vlc/3.0.12/win64/vlc-3.0.12-win64.exe
+Resolving videolan.mirror.liteserver.nl (videolan.mirror.liteserver.nl)... 2a01:6340:1:20::243, 185.31.172.243
+Connecting to videolan.mirror.liteserver.nl (videolan.mirror.liteserver.nl)|2a01:6340:1:20::243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42585440 (41M) [application/octet-stream]
+Saving to: 'TempDownloadFolder/vlc-3.0.12-win64.exe.1'
+
+
+2021-04-29 15:01:02 (19.5 MB/s) - 'TempDownloadFolder/vlc-3.0.12-win64.exe.1' saved [42585440/42585440]
+
+--2021-04-29 15:03:03--  http://*_=/
+Resolving *_= (*_=)... failed: No such host is known. .
+wget: unable to resolve host address '*_='
+--2021-04-29 15:21:18--  https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable
+Resolving discord.com (discord.com)... 162.159.128.233, 162.159.135.232, 162.159.137.232, ...
+Connecting to discord.com (discord.com)|162.159.128.233|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-04-29 15:21:18 ERROR 400: Bad Request.
+
